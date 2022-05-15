@@ -1,0 +1,10 @@
+^C:\USERS\MASTE\DESKTOP\UNIVERSITY_WORK\C++\XCUBE\CMAKEFILES\53ECC4375ACF5CFC7743B13B98FC3C47\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/maste/Desktop/University_Work/C++/xcube -BC:/Users/maste/Desktop/University_Work/C++/xcube --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/maste/Desktop/University_Work/C++/xcube/MyGame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
