@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1947,5): warning : The referenced project 'C:\Users\maste\Desktop\University_Work\C++\xcube\ZERO_CHECK.vcxproj' does not exist.
+  Building Custom Rule C:/Users/maste/Desktop/University_Work/C++/xcube/CMakeLists.txt
+  CMake is re-running because C:/Users/maste/Desktop/University_Work/C++/xcube/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/maste/Desktop/University_Work/C++/xcube/CMakeLists.txt'
+    is newer than 'C:/Users/maste/Desktop/University_Work/C++/xcube/CMakeFiles/generate.stamp.depend'
+    result='0'
+CUSTOMBUILD : CMake error : The source directory "C:/Users/maste/Desktop/University_Work/C++/xcube" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(240,5): error MSB8066: Custom build for 'C:\Users\maste\Desktop\University_Work\C++\xcube\CMakeLists.txt' exited with code 1.

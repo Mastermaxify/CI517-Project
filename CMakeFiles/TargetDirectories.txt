@@ -1,0 +1,3 @@
+C:/Users/maste/Desktop/University_Work/C++/xcube/CMakeFiles/MyGame.dir
+C:/Users/maste/Desktop/University_Work/C++/xcube/CMakeFiles/ALL_BUILD.dir
+C:/Users/maste/Desktop/University_Work/C++/xcube/CMakeFiles/ZERO_CHECK.dir
