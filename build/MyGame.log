@@ -1,0 +1,26 @@
+﻿  MyGame.cpp
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(42,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(43,1): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(48,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(49,1): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,33): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,33): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,36): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(96,36): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\engine\GameMath.h(114,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\demo\MyGame.cpp(211,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\demo\MyGame.cpp(313,72): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\demo\MyGame.cpp(316,71): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\maste\Desktop\University_Work\C++\xcube\src\demo\MyGame.cpp(319,78): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  MyGame.vcxproj -> C:\Users\maste\Desktop\University_Work\C++\xcube\Debug\MyGame.exe
